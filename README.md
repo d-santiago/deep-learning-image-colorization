@@ -44,3 +44,18 @@ as input, the model can predict the other A and B channels. This reduces
 the number of parameters necessary in a model that uses RGB format. If
 RGB format were used, all three channels would need to be predicted instead,
 R, G, and B.
+
+## Model
+
+## Model Loss Functions
+- L1 Loss
+- Cross Entropy Loss
+
+## Colorized Image Samples
+<img src="https://github.com/d-santiago/image-colorization-model/blob/main/assets/skateboard.png">
+<img src="https://github.com/d-santiago/image-colorization-model/blob/main/assets/soccer.png">
+<img src="https://github.com/d-santiago/image-colorization-model/blob/main/assets/water.png">
+<img src="https://github.com/d-santiago/image-colorization-model/blob/main/assets/field.png">
+<img src="https://github.com/d-santiago/image-colorization-model/blob/main/assets/camera.png">
+<img src="https://github.com/d-santiago/image-colorization-model/blob/main/assets/hiking.png">
+<img src="https://github.com/d-santiago/image-colorization-model/blob/main/assets/hockey.png">
