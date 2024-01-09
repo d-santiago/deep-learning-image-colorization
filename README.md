@@ -1,6 +1,6 @@
 # Deep Learning Image Colorization (2023)
 
-This project transforms gray-scale images into color images using a Generative Adversarial Network (GAN) deep learning architecture.
+This project transforms gray-scale images into color images using a generative adversarial network (GAN) deep learning architecture.
 
 ## Technologies
 - Python
@@ -46,6 +46,10 @@ RGB format were used, all three channels would need to be predicted instead,
 R, G, and B.
 
 ## Model
+
+Generative Adversarial Network
+- Autoencoder Generator
+- Patch Discriminator
 
 ## Model Loss Functions
 - L1 Loss
