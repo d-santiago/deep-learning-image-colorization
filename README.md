@@ -45,9 +45,7 @@ the number of parameters necessary in a model that uses RGB format. If
 RGB format were used, all three channels would need to be predicted instead,
 R, G, and B.
 
-## Model
-
-Generative Adversarial Network
+## Generative Adversarial Network Model
 - Autoencoder Generator
 - Patch Discriminator
 
